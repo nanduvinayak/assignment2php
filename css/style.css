@@ -1,0 +1,13 @@
+/* adding style to the buttons */
+.butn{
+ background-color: rgb(223, 128, 61);
+ color: white;
+}
+
+.butn:hover{
+    background-color: black;
+}
+
+.pad{
+    padding-right: 4em;
+}
